@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "AppBeverages"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.3"
   spec.summary      = "AppBeverage es un modulo del aplicativo del menù principal del restaurante"
 
   # This description is used to generate tags and improve search results.
